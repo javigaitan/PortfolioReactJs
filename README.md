@@ -48,5 +48,5 @@ This project initialise with [Create React App](https://github.com/facebook/crea
 
 ## _Deploy_
 ```sh
-https://e-commerce-react-topaz.vercel.app/
+https:
 ```
