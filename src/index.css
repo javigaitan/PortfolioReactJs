@@ -12,11 +12,11 @@
 
 :root {
 
-  --color-bg: #395B64;
-  --color-prymary:#2C3333 ;
-  --color-prymary-variant: #A5C9CA; 
-  --color-white: #E7F6F2; 
-  --color-bg-variant: #2c2c6c;
+  --color-bg: #002B5B;
+  --color-bg-variant: #2B4865;
+  --color-primary: #256D85;
+  --color-primary-variant: rgba(77, 181, 255, 0.4);
+  --color-white: #E7F6F2;
   --color-light: rgba(255, 255, 255, 0.6);
 
   --transition: all 400ms ease;
@@ -39,6 +39,7 @@ body {
   background: var(--color-bg);
   color: var(--color-white);
   line-height: 1.7;
+  background-image: url(../src/assets/bg-texture.png);
   
 }
 

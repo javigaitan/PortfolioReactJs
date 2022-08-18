@@ -7,7 +7,7 @@ footer {
 }
 
 footer a {
-  color: var(--color-bg);
+  color: var(--color-white);
 }
 
 .footer__logo {
@@ -23,6 +23,7 @@ footer a {
   justify-content: center;
   gap: 2rem;
   margin: 0 auto 3rem;
+  
 }
 
 .footer__socials {
@@ -42,14 +43,12 @@ footer a {
 }
 
 .footer__socials a:hover {
-  background: transparent;
-  color: var(--color-bg);
-  border-color: var(--color-bg);
+  scale: 1.2;
 }
 
 .footer__copyright {
   margin-bottom: 4rem;
-  color: var(--color-bg);
+  color: var(--color-white);
 }
 
 /* ================ MEDIA QUERIES (SMALL DEVICES) ================= */
